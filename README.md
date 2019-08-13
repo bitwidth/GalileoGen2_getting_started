@@ -4,3 +4,5 @@ At the time of writing August, 2019, Intel has stopped the production for All th
 
 
 If you're using Linux, then use this link [Getting started in Linux](https://github.com/bitwidth/GalileoGen2_getting_started_OnLinux/blob/master/ForLinux.md)
+
+#### [WORK IN PROGRESS]
